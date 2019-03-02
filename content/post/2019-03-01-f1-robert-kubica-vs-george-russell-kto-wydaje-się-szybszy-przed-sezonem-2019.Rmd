@@ -1,0 +1,10 @@
+---
+title: 'F1: Robert Kubica vs George Russell - kto wydaje się szybszy przed sezonem 2019?'
+author: 'f1wliczbach'
+date: 2019-03-01
+slug: f1-robert-kubica-vs-george-russell-kto-wydaje-się-szybszy-przed-sezonem-2019
+categories: ['Kierowcy']
+tags: ['F1', 'Formuła 1', 'Kubica', 'Robert Kubica', 'George Russell', 'rstats', 'analiza']
+---
+Robert Kubica czy George Rusell? Który jest szybszy? Co można wydobyć ze szczątków danych, które mamy po zakończonych 1 marca testach w Barcelonie?
+
